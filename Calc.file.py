@@ -8,7 +8,7 @@ def Ascii():
  time.sleep(0.45)
  print("|  _________________  |")
  time.sleep(0.45)
- print("| |      DANTE      | |")
+ print("| |        "+str(rst)+"        | |")
  time.sleep(0.45)
  print("| |_________________| |")
  time.sleep(0.45)
